@@ -1,0 +1,4 @@
+name: AutoMute
+version: '1.0'
+main: com.tsukilo.automute.Main
+api-version: 1.17
